@@ -2,7 +2,8 @@
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
 
-This is my most up to date react portfolio.
+Still in development
+
 ## Video walkthrough
 
 You can watch the video walkthrough of this project [here](https://watch.screencastify.com/v/ulWizWY9fyzpQttPbdBQ).
